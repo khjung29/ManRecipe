@@ -19,7 +19,7 @@
       "seriesNo" : "207933",
       "itemList" : [
           { "title" : "메인레시피", "id" : "1", "img" : "", "sort" : "1"},
-          { "title" : "레시피", "id" : "2", "img" : "", "sort" : "2"}
+          { "title" : "블로그레시피", "id" : "2", "img" : "", "sort" : "2"}
       ]
     }    
   ]
