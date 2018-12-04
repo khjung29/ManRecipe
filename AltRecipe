@@ -17,6 +17,8 @@
       "postId" : "11773044",
       "memberNo" : "11595512",
       "seriesNo" : "207933",
+      "keyword" : "레시피",
+      "sortType" : "createDate.dsc",
       "itemList" : [
           { "title" : "메인레시피", "id" : "1", "img" : "", "sort" : "1"},
           { "title" : "블로그레시피", "id" : "2", "img" : "", "sort" : "2"}
