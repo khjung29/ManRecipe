@@ -2,7 +2,7 @@
   "channels" : [
     {
       "title" : "알토란레시피",
-      "fbNativeInterval" : "5",
+      "fbNativeInterval" : "6",
       "fbNativeReload" : "true",
       "notiOn" : "false",
       "notiTitle" : "공지",
