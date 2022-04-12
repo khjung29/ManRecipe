@@ -1,0 +1,32 @@
+{ 
+  "channels" : [
+    {
+      "title" : "알토란레시피",
+      "fbNativeInterval" : "6",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "mainUrl" : "https:",
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "11773044",
+      "memberNo" : "11595512",
+      "seriesNo" : "207933",
+      "keyword" : "레시피",
+      "sortType" : "createDate.dsc",
+      "videoTit" : "h3.play_tit",
+      "itemList" : [
+          { "title" : "전체\n레시피", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "간단\n레시피", "id" : "2", "img" : "", "sort" : "2"},
+          { "title" : "블로그\n레시피", "id" : "3", "img" : "", "sort" : "3"},
+          { "title" : "방송\n영상", "id" : "4", "img" : "", "sort" : "4"}
+      ]
+    }    
+  ]
+}
