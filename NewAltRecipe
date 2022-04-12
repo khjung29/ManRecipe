@@ -22,10 +22,10 @@
       "sortType" : "createDate.dsc",
       "videoTit" : "h3.play_tit",
       "itemList" : [
-          { "title" : "전체\n레시피", "id" : "1", "img" : "", "sort" : "1"},
-          { "title" : "간단\n레시피", "id" : "2", "img" : "", "sort" : "2"},
-          { "title" : "블로그\n레시피", "id" : "3", "img" : "", "sort" : "3"},
-          { "title" : "방송\n영상", "id" : "4", "img" : "", "sort" : "4"}
+          { "title" : "전체레시피", "id" : "1", "img" : "", "sort" : "1"},
+          { "title" : "간단레시피", "id" : "2", "img" : "", "sort" : "2"},
+          { "title" : "영상레시피", "id" : "3", "img" : "", "sort" : "3"},
+          { "title" : "즐겨찾기", "id" : "4", "img" : "", "sort" : "4"}
       ]
     }    
   ]
